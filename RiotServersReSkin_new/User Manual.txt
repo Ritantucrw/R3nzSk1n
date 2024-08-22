@@ -1,0 +1,17 @@
+When you open the program, a simple information box will appear. Please close the information box before performing the enable and disable operations. There will be a notification sound for both enabling and disabling.
+
+Press the Home key to enable automatic injection (it can be enabled both inside and outside the game, and the game will automatically inject upon entry. After enabling the function, there is no need to re-enable it before exiting the program).
+
+Press the End key to disable automatic injection and close the program.
+
+Enabling it before the first game might cause it to inject too early for players whose first game load is slower, resulting in ineffectiveness.
+
+Due to memory loading order, it is recommended to enable it after the loading screen has passed the first time you enter the game after each boot.
+
+The first injection after each boot requires a delay of about 5-10 seconds. Subsequent automatic injections do not have this issue.
+
+After the function is successfully enabled, press the Ins key to show/hide the menu. The menu is off by default, and some functions are in the menu.
+
+The hotkeys for showing/hiding the menu and switching skins can be modified in the menu. The configuration will be remembered, so the next time you enter the game, it will use the previously configured skins and settings.
+
+If it gets deleted or blocked by antivirus just disable it.
